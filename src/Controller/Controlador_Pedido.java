@@ -6,7 +6,6 @@
 package Controller;
 
 import View.View_Pedido;
-import View.View_Principal;
 import static java.awt.Frame.ICONIFIED;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
